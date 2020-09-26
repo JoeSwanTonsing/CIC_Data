@@ -6,7 +6,7 @@
     "departments": ["OPD","Emergency","Neurology","Cardiology"],
     "timing":"Open 24Hrs",
     "days":"Everyday",
-    "phone":[""],
+    "phone":["+919612922652"],
     "gmaps":"https:\/\/goo.gl\/maps\/iMgxvr1KhetsYCPUA"
   },
   {
@@ -16,7 +16,7 @@
     "departments": [""],
     "timing":"Open 24Hrs",
     "days":"Everyday",
-    "phone":[""],
+    "phone":["+913874233305"],
     "gmaps":"https:\/\/goo.gl\/maps\/PebDTvkgNj1ucSML8"
   },
 ]
