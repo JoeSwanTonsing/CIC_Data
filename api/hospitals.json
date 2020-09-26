@@ -1,0 +1,22 @@
+[
+  {
+    "id":"1",
+    "name":"Churachandpur District Hospital",
+    "address":"IB Rd, Hiangtam Lamka, Churachandpur, Manipur 795128",
+    "departments": ["OPD","Emergency","Neurology","Cardiology"],
+    "timing":"Open 24Hrs",
+    "days":"Everyday",
+    "phone":[""],
+    "gmaps":""
+  },
+  {
+    "id":"2",
+    "name":"Sielmat Christian Hospital",
+    "address":"Sielmat, Churachandpur, Manipur 795128",
+    "departments": [""],
+    "timing":"Open 24Hrs",
+    "days":"Everyday",
+    "phone":[""],
+    "gmaps":""
+  },
+]
