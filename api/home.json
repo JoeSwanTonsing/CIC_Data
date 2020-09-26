@@ -2,11 +2,12 @@
   {
     "id":"1",
     "title":"Getting Started",
-    "content":"To get started, click on one of the links in the navigation bar.\nOnce clicked, the list for the clicked topic should be loaded on the screen."
+    "content1":"To get started, click on one of the links in the navigation bar.",
+    "content2":"Once clicked, the list for the clicked topic should be loaded on the screen."
   },
   {
     "id":"2",
     "title":"About",
-    "content":"Content of About."
+    "content1":"Content of About."
   }
 ]
