@@ -1,0 +1,31 @@
+[
+   {
+      "id":"1",
+      "name":"Dr Khups' Eye Clinic",
+      "address":"Churachandpur, Bungmual, Churachandpur, Manipur 795128",
+      "departments":[
+         ""
+      ],
+      "timing":"07:00 AM - 6:00 PM",
+      "days":"Monday - Saturdays",
+      "closes":"Closes: Sunday and Government Holidays",
+      "phone":[
+         "tel:07085484765"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/nVGsnjFbeVtTM6PT9"
+   },
+   {
+      "id":"2",
+      "name":"Sielmat Christian Hospital",
+      "address":"Sielmat, Churachandpur, Manipur 795128",
+      "departments":[
+         ""
+      ],
+      "timing":"Open 24Hrs",
+      "days":"Everyday",
+      "phone":[
+         "+913874233305"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/PebDTvkgNj1ucSML8"
+   }
+]
