@@ -1,13 +1,13 @@
 [
-  {
-    "id":"1",
-    "title":"Getting Started",
-    "contenta":"To get started, click on one of the links in the navigation bar.",
-    "contentb":"Once clicked, the list for the clicked topic should be loaded on the screen."
-  },
-  {
-    "id":"2",
-    "title":"About",
-    "contenta":"Content of About."
-  }
+   {
+      "id":"1",
+      "title":"Getting Started",
+      "contenta":"To get started, click on one of the links in the navigation bar.",
+      "contentb":"Once clicked, the list for the clicked topic should be loaded on the screen."
+   },
+   {
+      "id":"2",
+      "title":"About",
+      "contenta":"Content of About."
+   }
 ]
