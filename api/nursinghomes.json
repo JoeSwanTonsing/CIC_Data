@@ -1,0 +1,60 @@
+[
+   {
+      "id":"1",
+      "name":"Lamka Nursing Home",
+      "address":"IB Rd, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "departments":[
+         ""
+      ],
+      "timing":"",
+      "days":"",
+      "phone":[
+         ""
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/ivjiYpgJcmwDnvHVA"
+   },
+   {
+      "id":"2",
+      "name":"Nazareth Nursing Home",
+      "address":"NH 150, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "departments":[
+         ""
+      ],
+      "timing":"5:30 AM – 4:30 PM",
+      "days":"Everyday",
+      "phone":[
+         ""
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/WngvxD7Z1F6agnbL9"
+   },
+   {
+      "id":"3",
+      "name":"Grace Nursing Home",
+      "address":"Zion Veng, New Lamka, Churachandpur, Manipur 795128",
+      "departments":[
+         "OPD",
+         "Emergency"
+      ],
+      "timing":"",
+      "days":"",
+      "phone":[
+         ""
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/ASDYtdrjBcSsNnzV8"
+   },
+   {
+      "id":"4",
+      "name":"Samaritan Nursing Home",
+      "address":"B.Aizalon, Churachandpur, Manipur 795128",
+      "departments":[
+         "OPD",
+         "Emergency"
+      ],
+      "timing":"Open 24Hrs",
+      "days":"Everyday",
+      "phone":[
+         "tel:03874233305"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/r7iwz3ozbuXNHvzGA"
+   }
+]
