@@ -1,0 +1,19 @@
+[
+   {
+      "id":"1",
+      "name":"Saikawt PHC",
+      "address":"Saikot, Manipur 795117",
+      "departments":[
+         "OPD",
+         "Gynae",
+         "Medicine"
+      ],
+      "timing":"10:30 AM - 2:00 PM",
+      "days":"Monday - Saturdays",
+      "closes":"Closes: Sunday and Government Holidays",
+      "phone":[
+         ""
+      ],
+      "https:\/\/goo.gl\/maps\/kdgLCAmVcP398Wzb9"
+   }
+]
