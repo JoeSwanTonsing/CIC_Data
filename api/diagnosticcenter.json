@@ -1,0 +1,111 @@
+[
+   {
+      "id":"1",
+      "name":"Unique Diagnostic Centre",
+      "address":"IB Rd, Hill Town, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "departments":[
+         "X-Ray",
+         "Ultrasound",
+         "Blood",
+         "Urine",
+         "Semen",
+         "Stool",
+         "E.C.G",
+         "etc"
+      ],
+      "timing":"06:15 AM - 8:00 PM",
+      "days":"Everyday",
+      "closes":"Closes: Sunday and Government Holidays",
+      "phone":[
+         "tel:8413971885",
+         "tel:8414019661",
+         "tel:9089730029",
+         "tel:9089060120"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/EDNDHLiC7sHkVed56"
+   },
+   {
+      "id":"2",
+      "name":"Excel Diagnostic Centre",
+      "address":"Hill Town, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "departments":[
+         ""
+      ],
+      "timing":"",
+      "days":"",
+      "closes":"",
+      "phone":[
+        "tel:03874235321",
+        "tel:9862159364",
+        "tel:8974717124"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/1vF4JQLDTFm44zk79"
+   },
+   {
+      "id":"3",
+      "name":"Omega Diagnostic Centre",
+      "address":"IB road, Hiangtam Lamka Near Lamka Nursing Home, Churachandpur, Manipur 795128",
+      "departments":[
+         "X-Ray",
+         "E.C.G",
+         "All Laboratory Tests"
+      ],
+      "timing":"",
+      "days":"",
+      "closes":"",
+      "phone":[
+        "tel:8014877927",
+        "tel:9612018048"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/yJ2AWpfDkLojgvAY7"
+   },
+   {
+      "id":"4",
+      "name":"Jerusalem Clinic & Diagnostic Centre",
+      "address":"Near Churachandpur District Hospital, Hill Town, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "departments":[
+         "Sonography",
+         "Pathology Test",
+         "Urinal Tests",
+         "Digital X-Ray",
+         "Dental X-Ray",
+         "E.C.G",
+         "Diabetologist",
+         "Medicine",
+         "E.N.T",
+         "Surgery",
+         "Neurosurgeon",
+         "Cardiac Surgeon",
+         "Oncology",
+         "Dietician",
+         "Counselor"
+      ],
+      "timing":"06:30 AM - 5:00 PM",
+      "days":"Monday - Saturday",
+      "closes":"Closes: Sunday and Government Holidays",
+      "phone":[
+        "tel:03874235924"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\ /MmEzi775k9CqJgt76"
+   },
+   {
+      "id":"5",
+      "name":"Gilead Health Care Center",
+      "address":"Vengpui, Rengkai Near Rengkai Local Church, Churachandpur, Manipur 795128",
+      "departments":[
+         "Blood Test",
+         "Stool",
+         "Urinal Tests",
+         "Sputum Test",
+         "Electrocardiogram",
+         "Ultrasound"
+      ],
+      "timing":"06:00 AM - 6:30 PM",
+      "days":"Monday - Saturday",
+      "closes":"Closes: Sunday and Government Holidays",
+      "phone":[
+        "tel:919366040243"
+      ],
+      "gmaps":"https:\/\/goo.gl\/maps\/fjDJ5MP77txvofqg7"
+   }
+]
