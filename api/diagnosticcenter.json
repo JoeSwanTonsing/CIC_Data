@@ -35,9 +35,9 @@
       "days":"",
       "closes":"",
       "phone":[
-        "tel:03874235321",
-        "tel:9862159364",
-        "tel:8974717124"
+         "tel:03874235321",
+         "tel:9862159364",
+         "tel:8974717124"
       ],
       "gmaps":"https:\/\/goo.gl\/maps\/1vF4JQLDTFm44zk79"
    },
@@ -54,8 +54,8 @@
       "days":"",
       "closes":"",
       "phone":[
-        "tel:8014877927",
-        "tel:9612018048"
+         "tel:8014877927",
+         "tel:9612018048"
       ],
       "gmaps":"https:\/\/goo.gl\/maps\/yJ2AWpfDkLojgvAY7"
    },
@@ -84,9 +84,9 @@
       "days":"Monday - Saturday",
       "closes":"Closes: Sunday and Government Holidays",
       "phone":[
-        "tel:03874235924"
+         "tel:03874235924"
       ],
-      "gmaps":"https:\/\/goo.gl\/maps\ /MmEzi775k9CqJgt76"
+      "gmaps":"https:\/\/goo.gl\/maps\\ /MmEzi775k9CqJgt76"
    },
    {
       "id":"5",
@@ -104,7 +104,7 @@
       "days":"Monday - Saturday",
       "closes":"Closes: Sunday and Government Holidays",
       "phone":[
-        "tel:919366040243"
+         "tel:919366040243"
       ],
       "gmaps":"https:\/\/goo.gl\/maps\/fjDJ5MP77txvofqg7"
    }
