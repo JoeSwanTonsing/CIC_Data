@@ -13,6 +13,9 @@
       "iconICN":"flaticon",
       "iconLink":"https:\/\/www.flaticon.com\/",
       "contributeTitle":"Contributing to the project",
-      "contribLine1":""
+      "contribLine1":"All contributions to the project - big and small are always welcomed. The project is Open-Sourced so that anyone can help contribute to it, and help make it better.",
+      "contribLine2":"Developers can clone/fork the GitHub repo and work from there, however please do not make any changes to the master branch.",
+      "contribLine3":"Non-Developers who want to contribute may contact the developer at",
+      "devMail":"suanasdf@gmail.com",
    }
 ]
