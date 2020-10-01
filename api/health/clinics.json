@@ -3,6 +3,7 @@
       "id":"1",
       "name":"Dr Khups' Eye Clinic",
       "address":"Churachandpur, Bungmual, Churachandpur, Manipur 795128",
+      "type":"Clinic",
       "departments":[
          ""
       ],
@@ -18,6 +19,7 @@
       "id":"2",
       "name":"Jerusalem Clinic & Diagnostic Centre",
       "address":"Near Churachandpur District Hospital, Hill Town, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "type":"Clinic & Diagnostic Center",
       "departments":[
          "Sonography",
          "Pathology Test",

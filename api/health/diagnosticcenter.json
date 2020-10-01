@@ -3,6 +3,7 @@
       "id":"1",
       "name":"Unique Diagnostic Centre",
       "address":"IB Rd, Hill Town, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "type":"Diagnostic Center",
       "departments":[
          "X-Ray",
          "Ultrasound",
@@ -28,6 +29,7 @@
       "id":"2",
       "name":"Excel Diagnostic Centre",
       "address":"Hill Town, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "type":"Diagnostic Center",
       "departments":[
          ""
       ],
@@ -45,6 +47,7 @@
       "id":"3",
       "name":"Omega Diagnostic Centre",
       "address":"IB road, Hiangtam Lamka Near Lamka Nursing Home, Churachandpur, Manipur 795128",
+      "type":"Diagnostic Center",
       "departments":[
          "X-Ray",
          "E.C.G",
@@ -63,6 +66,7 @@
       "id":"4",
       "name":"Jerusalem Clinic & Diagnostic Centre",
       "address":"Near Churachandpur District Hospital, Hill Town, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "type":"Diagnostic Center",
       "departments":[
          "Sonography",
          "Pathology Test",
@@ -86,12 +90,13 @@
       "phone":[
          "tel:03874235924"
       ],
-      "gmaps":"https:\/\/goo.gl\/maps\\ /MmEzi775k9CqJgt76"
+      "gmaps":"https:\/\/goo.gl\/maps\/MmEzi775k9CqJgt76"
    },
    {
       "id":"5",
       "name":"Gilead Health Care Center",
       "address":"Vengpui, Rengkai Near Rengkai Local Church, Churachandpur, Manipur 795128",
+      "type":"Diagnostic Center",
       "departments":[
          "Blood Test",
          "Stool",

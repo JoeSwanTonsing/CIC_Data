@@ -3,6 +3,7 @@
       "id":"1",
       "name":"Lamka Nursing Home",
       "address":"IB Rd, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "type":"Nursing Home",
       "departments":[
          ""
       ],
@@ -18,6 +19,7 @@
       "id":"2",
       "name":"Nazareth Nursing Home",
       "address":"NH 150, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "type":"Nursing Agency",
       "departments":[
          ""
       ],
@@ -33,6 +35,7 @@
       "id":"3",
       "name":"Grace Nursing Home",
       "address":"Zion Veng, New Lamka, Churachandpur, Manipur 795128",
+      "type":"Nursing Home",
       "departments":[
          "OPD",
          "Emergency"
@@ -49,6 +52,7 @@
       "id":"4",
       "name":"Samaritan Nursing Home",
       "address":"B.Aizalon, Churachandpur, Manipur 795128",
+      "type":"Nursing Home",
       "departments":[
          "OPD",
          "Emergency"

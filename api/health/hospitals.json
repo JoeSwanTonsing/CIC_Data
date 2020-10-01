@@ -3,6 +3,7 @@
       "id":"1",
       "name":"Churachandpur District Hospital",
       "address":"IB Rd, Hiangtam Lamka, Churachandpur, Manipur 795128",
+      "type":"Hospital",
       "departments":[
          "OPD",
          "Emergency",
@@ -21,6 +22,7 @@
       "id":"2",
       "name":"Sielmat Christian Hospital",
       "address":"Sielmat, Churachandpur, Manipur 795128",
+      "type":"Hospital",
       "departments":[
          ""
       ],
