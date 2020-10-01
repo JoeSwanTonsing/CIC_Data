@@ -2,7 +2,7 @@
   {
     "id":"1",
     "name":"State Bank of India ATM",
-    "type":"",
+    "type":"ATM",
     "address":"Lower Chapel Ln, Zogam Bazar, Hiangtam Lamka, Churachandpur, Manipur 795128",
     "open":"Open 24 Hours",
     "close":"",
@@ -12,7 +12,7 @@
   {
     "id":"2",
     "name":"SBI ATM",
-    "type":"",
+    "type":"ATM",
     "address":"Chiengkonpang, Churachandpur, Manipur 795128",
     "open":"9 AM - 5 PM",
     "close":"",
@@ -22,7 +22,7 @@
   {
     "id":"3",
     "name":"Tuibuang SBI ATM",
-    "type":"",
+    "type":"ATM",
     "address":"Tuibuang Churachandpur, Manipur 795128",
     "open":"",
     "close":"",
@@ -32,7 +32,7 @@
   {
     "id":"4",
     "name":"State Bank of India ATM",
-    "type":"",
+    "type":"ATM",
     "address":"MC Mary Kom Ring Rd, Churachandpur, Manipur 795128",
     "open":"",
     "close":"",
@@ -42,7 +42,7 @@
   {
     "id":"5",
     "name":"State Bank Of India ATM",
-    "type":"",
+    "type":"ATM",
     "address":"Churachandpur, Manipur 795128",
     "open":"",
     "close":"",
@@ -52,7 +52,7 @@
   {
     "id":"6",
     "name":"State Bank Of India ATM",
-    "type":"",
+    "type":"ATM",
     "address":"Tedim Rd, Hebron Veng, New Lamka, Churachandpur, Manipur 795128",
     "open":"7 AM - 6 PM",
     "close":"",
