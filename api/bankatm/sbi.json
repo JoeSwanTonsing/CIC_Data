@@ -2,8 +2,111 @@
   {
     "id":"1",
     "name":"State Bank of India ATM",
+    "type":"",
     "address":"Lower Chapel Ln, Zogam Bazar, Hiangtam Lamka, Churachandpur, Manipur 795128",
     "open":"Open 24 Hours",
+    "close":"",
+    "phone":"",
     "gmaps":"https:\/\/goo.gl\/maps\/o4sx6FmcqJPUhxdeA"
+  },
+  {
+    "id":"2",
+    "name":"SBI ATM",
+    "type":"",
+    "address":"Chiengkonpang, Churachandpur, Manipur 795128",
+    "open":"9 AM - 5 PM",
+    "close":"",
+    "phone":"",
+    "gmaps":"https:\/\/goo.gl\/maps\/gN5GouSQC76yDQUs9"
+  },
+  {
+    "id":"3",
+    "name":"Tuibuang SBI ATM",
+    "type":"",
+    "address":"Tuibuang Churachandpur, Manipur 795128",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":"https:\/\/goo.gl\/maps\/vkxTQnFSFvDssew87"
+  },
+  {
+    "id":"4",
+    "name":"State Bank of India ATM",
+    "type":"",
+    "address":"MC Mary Kom Ring Rd, Churachandpur, Manipur 795128",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":"https:\/\/goo.gl\/maps\/HuKdvH4W2LrfmFX98"
+  },
+  {
+    "id":"5",
+    "name":"State Bank Of India ATM",
+    "type":"",
+    "address":"Churachandpur, Manipur 795128",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":"https:\/\/goo.gl\/maps\/6uWCGbUusF8PiLCT9"
+  },
+  {
+    "id":"6",
+    "name":"State Bank Of India ATM",
+    "type":"",
+    "address":"Tedim Rd, Hebron Veng, New Lamka, Churachandpur, Manipur 795128",
+    "open":"7 AM - 6 PM",
+    "close":"",
+    "phone":"",
+    "gmaps":"https:\/\/goo.gl\/maps\/GtyX3jApDY6pxKaf9"
+  },
+  {
+    "id":"",
+    "name":"",
+    "type":"",
+    "address":"",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":""
+  },
+  {
+    "id":"",
+    "name":"",
+    "type":"",
+    "address":"",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":""
+  },
+  {
+    "id":"",
+    "name":"",
+    "type":"",
+    "address":"",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":""
+  },
+  {
+    "id":"",
+    "name":"",
+    "type":"",
+    "address":"",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":""
+  },
+  {
+    "id":"",
+    "name":"",
+    "type":"",
+    "address":"",
+    "open":"",
+    "close":"",
+    "phone":"",
+    "gmaps":""
   }
 ]
