@@ -1,18 +1,18 @@
 [
-  {
-    "id":"1",
-    "title1":"About",
-    "title1Message":"C.I.C - Churachandpur Information Center is an Open-Source project, licensed under Apache License 2.0",
-    "licenseTitle":"License",
-    "licenseMessage1":"Copyright 2020 Joseph Liangousuan Tonsing.",
-    "licenseMessage2":"Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at",
-    "licenseLink":"http:\/\/www.apache.org\/licenses\/LICENSE-2.0",
-    "licenseMessage3":"Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
-    "icontitle":"Icons provided by:",
-    "iconProvider":"flaticon",
-    "iconICN":"flaticon",
-    "iconLink":"https:\/\/www.flaticon.com\/",
-    "contributeTitle":"Contributing to the project",
-    "contribLine1":""
-  }
+   {
+      "id":"1",
+      "title1":"About",
+      "title1Message":"C.I.C - Churachandpur Information Center is an Open-Source project, licensed under Apache License 2.0",
+      "licenseTitle":"License",
+      "licenseMessage1":"Copyright 2020 Joseph Liangousuan Tonsing.",
+      "licenseMessage2":"Licensed under the Apache License, Version 2.0 (the \"License\"); you may not use this file except in compliance with the License. You may obtain a copy of the License at",
+      "licenseLink":"http:\/\/www.apache.org\/licenses\/LICENSE-2.0",
+      "licenseMessage3":"Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an \"AS IS\" BASIS WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.",
+      "icontitle":"Icons provided by:",
+      "iconProvider":"flaticon",
+      "iconICN":"flaticon",
+      "iconLink":"https:\/\/www.flaticon.com\/",
+      "contributeTitle":"Contributing to the project",
+      "contribLine1":""
+   }
 ]
